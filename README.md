@@ -1,6 +1,6 @@
-# Currency Exchange Rate Tracker
+# CurrencyWatch
 
-Welcome to the Currency Exchange Rate Tracker! This web application provides up-to-date exchange rates using real-time data from a reliable API. The project is built with HTML, CSS, and JavaScript.
+Welcome to the CurrencyWatch! This web application provides up-to-date exchange rates using real-time data from a reliable API. The project is built with HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -16,7 +16,7 @@ Welcome to the Currency Exchange Rate Tracker! This web application provides up-
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** API integration for real-time data
+- **Backend:** API integration for real-time data & Javascript
 
 ## Installation
 
@@ -35,4 +35,3 @@ Welcome to the Currency Exchange Rate Tracker! This web application provides up-
 1. Open the application.
 2. Select the currencies you want to get exchange rates for.
 3. View the latest exchange rates.
-
